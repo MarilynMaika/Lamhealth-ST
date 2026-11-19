@@ -1,0 +1,21 @@
+consultation_id,condition,localised_english,lamnso,parallel,status,note
+C001,Pre-eclampsia,C001_preclampsia_1.csv,PRECLAMPSIA.xlsx,PRECLAMPSIA_pd.csv,parallel_ready,
+C002,Malaria,C002_malaria_1.csv,MALARIA.xlsx,MALARIA_pd.csv,parallel_ready,
+C003,Diarrhoea,C003_Diarrhea_1.csv,DIARRHEA.xlsx,DIARRHEA_pd.csv,parallel_ready,
+C004,Chest pain,C004_Chest_pain_1.csv,CHEST PAINS.xlsx,CHEST PAINS_pd.csv,parallel_ready,
+C005,Hypertension,C005_Hypertension_1.csv,HYPERTENTION.xlsx,,excluded,unresolved translation issues
+C006,Antenatal visit,C006_Antenatal_1.csv,ANTENATAL FINAL.xlsx,antenatal_pd.csv,parallel_ready,
+C007,Type 2 diabetes,C007_T2DM__1.csv,C007 T2DM.xlsx,C007 T2DM_pd.xlsx,parallel_ready,C007_T2DM.csv is an identical copy
+C008,Peptic ulcer disease,C008_PUD_1.csv,C008 PUD.xlsx,C008 PUD_pd.xlsx,parallel_ready,
+C009,Stroke,C009_Stroke_1.csv,C09 STROKE 1.xlsx,C09 STROKE_pd.xlsx,parallel_ready,
+C010,Asthma,C010_Asthma_1.csv,ASTHMA.xlsx,ASTHMA_pd.xlsx,parallel_ready,
+C013,Appendicitis,C013_Appendicitis_1.csv,C013 APENDICITIS.xlsx,C013 APENDICITIS_pd.xlsx,parallel_ready,
+C014,Hyperthyroidism,C014_Hyperthyroidism_1.csv,C14 HYPERTHYROISM.xlsx,C14 HYPERTHYROISM_pd.xlsx,parallel_ready,
+C016,Hyperemesis gravidarum,CO16_HG_1.csv,,,english_only,
+C017,Groin swelling,Co17_GroinSwelling_1.csv,,,english_only,
+C018,Ankle fracture,c018_anklefracture_1.csv,,,english_only,
+C019,Pneumonia,c019_pneumonia_1.csv,,,english_only,
+C020,Osteoarthritis,C020_oesteoarthritis_1.csv,,,english_only,
+C021,Meningitis,c021 meningitis_1.csv,,,english_only,
+C022,Convulsion,C022_convulsion_1.csv,,,english_only,
+C023,PCOS,C023 PCOS.csv,,,english_only,C023 PCOS_1.csv: same text plus a stray '-' in an extra column (row T098)
