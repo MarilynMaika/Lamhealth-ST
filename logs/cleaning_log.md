@@ -1,0 +1,1 @@
+19 Nov 2026 · split v1 · Test = C003 (Diarrhoea), C004 (Chest pain), drawn at random with seed 2026 before any training. 162 test pairs scored; 20 excluded because the same Lamnso sentence occurs in training. Train = 581 pairs from 9 consultations.
