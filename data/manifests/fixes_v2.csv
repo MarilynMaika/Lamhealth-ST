@@ -1,0 +1,9 @@
+pair_id,action,lamnso_words_before,lamnso_words_after,english_words_before,english_words_after,reason
+C001_076,exclude,96,0,24,0,Lamnso much longer than the English; appears to include the untranslated C001_077
+C003_097,keep_english_end,7,7,25,3,Lamnso translates only the final question; the earlier English was never translated
+C004_043,trim_lamnso,28,6,2,2,Only the first sentence matches the English; the rest is extra
+C006_070,trim_lamnso,121,27,10,10,"Cell also contained a copy of C006_072's translation; kept the first sentence, which matches the English"
+C006_072,split_rest_to_next,94,51,33,33,Cell held this turn's translation plus most of C006_073's; rest moved to C006_073
+C006_073,receives_rest_from_previous,12,43,22,22,Completed with text moved from C006_072
+C007_023,replace_english,4,4,11,5,Original English said more than the Lamnso; English rewritten by the researcher to match the Lamnso
+C013_056,replace_english,2,2,16,3,Original English said more than the Lamnso; English rewritten by the researcher to match the Lamnso
