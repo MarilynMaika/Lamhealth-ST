@@ -1,0 +1,17 @@
+# Data never goes into Git (handbook 4.3): it lives in Google Drive
+data/raw/
+data/processed/
+
+# Trained models are too large: they live in Drive. Keep only the docs.
+models/*
+!models/README.md
+!models/model_card.md
+
+# Python and notebook clutter
+__pycache__/
+.ipynb_checkpoints/
+
+# Windows and Excel clutter
+Thumbs.db
+desktop.ini
+~$*
